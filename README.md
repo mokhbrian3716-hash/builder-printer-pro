@@ -1,6 +1,6 @@
 # 🏗️ Builder Printer Pro
 
-**Builder Printer Pro v7.0** is a professional desktop drawing application built with **Python and PyQt6**, designed for creating and editing building plans and technical drawings.
+**Builder Printer Pro v7.0** is a desktop drawing application built with **Python and PyQt6**, designed for creating and editing building plans and technical drawings.
 
 ## ✨ Features
 
@@ -58,7 +58,7 @@ pip install PyQt6
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/builder-printer-pro.git
+git clone https://github.com/mokhbrian3716-hash/builder-printer-pro.git
 ```
 
 Open the project directory:
@@ -70,16 +70,14 @@ cd builder-printer-pro
 Run the application:
 
 ```bash
-python main.py
+python builder_printer.py
 ```
-
-> Replace `main.py` with the actual name of your Python file if it is different.
 
 ## 💾 Project Files
 
 Builder Printer Pro uses the `.buil` file format to save projects.
 
-Project files contain information such as:
+Project files can contain information such as:
 
 * Layers
 * Shapes
@@ -96,7 +94,7 @@ Project files contain information such as:
 
 This project was created as a desktop drawing and building-plan design application using Python and PyQt6.
 
-It can be used as a foundation for developing more advanced CAD-like drawing and architectural design software.
+It can serve as a foundation for developing more advanced CAD-like drawing and architectural design software.
 
 ## 🚀 Future Improvements
 
@@ -114,7 +112,7 @@ Possible future improvements include:
 
 ## 👨‍💻 Developer
 
-**Part Company**
+**mokhbrian**
 
 Builder Printer Pro v7.0
 1404 / 2025
